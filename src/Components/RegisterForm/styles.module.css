@@ -1,0 +1,27 @@
+.registerLabel {
+  display: block;
+  max-width: 182px;
+  margin-bottom: 10px;
+
+  font-weight: 700;
+  color: #a028ab;
+}
+
+.registerInput {
+  margin-top: 5px;
+  line-height: 1.5;
+  border-radius: 5px;
+  border-color: #a028ab;
+  background-color: #bce6e4;
+  color: #1d445e;
+}
+
+input:last-child {
+  margin-bottom: 10px;
+}
+
+.submitBtn {
+  background-color: #a028ab;
+  border-color: #a028ab;
+  cursor: pointer;
+}
